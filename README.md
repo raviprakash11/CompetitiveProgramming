@@ -1,2 +1,2 @@
-# DataStructure-Algorithm
-Data Structure and Algorithm to learn
+# ComptativeProgramming
+comptative programming for test.
