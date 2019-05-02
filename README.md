@@ -1,2 +1,2 @@
 # ComptativeProgramming
-comptative programming for test.
+Comptative Programming.
