@@ -1,2 +1,2 @@
-# ComptativeProgramming
-Comptative Programming.
+# CompetitiveProgramming
+Competitive Programming.
